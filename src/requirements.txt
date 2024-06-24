@@ -1,0 +1,9 @@
+fake-useragent
+requests
+beautifulsoup4
+pydantic
+langchain-core
+langchain-community
+langchain-openai
+rank_bm25
+loguru
